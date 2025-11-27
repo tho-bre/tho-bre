@@ -1,5 +1,8 @@
 # 💫 About Me:
-🏃 Je travaille actuellement sur<br>La stack data de Combo (dbt, BigQuery, Airbyte) — et en parallèle je construis Ouisub, un SaaS qui aide les assos françaises à décrocher des subventions<br>👯 Je cherche à collaborer sur<br>Des projets data engineering, de l'automatisation n8n, ou tout outil open-source qui peut faire gagner du temps à la communauté data<br>💬 Parle-moi de<br>dbt, BigQuery, Metabase, pipelines de données, automatisation n8n, ou comment monter un projet data en partant de zéro — j'adore ça<br>⚡ Fun fact<br>Quand je n'optimise pas des requêtes SQL, je bricole mon homelab (Plex, domotique Hue/HomeKit)
+**🏃 Je travaille actuellement** sur la stack data de Combo (dbt, BigQuery, Airbyte) — et en parallèle je construis Ouisub, un SaaS qui aide les assos françaises à décrocher des subventions
+**👯 Je cherche à collaborer sur** Des projets data engineering, de l'automatisation n8n, ou tout outil open-source qui peut faire gagner du temps à la communauté data
+**💬 Parle-moi de** dbt, BigQuery, Metabase, pipelines de données, automatisation n8n, ou comment monter un projet data en partant de zéro — j'adore ça
+**⚡ Fun fact**Quand je n'optimise pas des requêtes SQL, je bricole mon homelab (Plex, domotique Hue/HomeKit)
 
 
 ## 🌐 Socials:
